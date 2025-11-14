@@ -21,8 +21,9 @@ This project is an interactive document-based question answering system that all
 1. Clone this repository:
 
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/Krishnakishore25/Document-Based-QA-System.git
+cd DocumentBasedChatBot
+code .
 ````
 
 2. Create and activate a virtual environment:
