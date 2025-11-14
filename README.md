@@ -51,7 +51,7 @@ pip install -r requirements.txt
 ````
 
 4. Add your OpenAI key
-Create a .streamlit folder in the project root and add a secrets.toml file with:
+by creating a .streamlit folder in the project root and add a secrets.toml file with:
 ```bash
 OPENAI_API_KEY = "your_openai_api_key_here"
 ````
