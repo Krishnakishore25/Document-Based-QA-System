@@ -16,6 +16,8 @@ This project is an interactive document-based question answering system that all
 - FAISS for fast vector similarity search
 - OpenAI API for embeddings and GPT-3.5 Turbo
 
+***Note:*** This application supports for **Python 3.11**.
+
 # INSTALLATION
 
 1. Clone this repository:
